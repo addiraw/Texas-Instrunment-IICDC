@@ -1,3 +1,5 @@
+// code to check A(G working or not )
+
 #include <stdio.h>
 #include <string.h>
 #include <SoftwareSerial.h>
