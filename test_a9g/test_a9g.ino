@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <SoftwareSerial.h>
  
 #define DEBUG true
 int PWR_KEY = 9;
@@ -7,6 +8,7 @@ int RST_KEY = 6;
 int LOW_PWR_KEY = 5;
  
 bool ModuleState=false;
+SoftwareSerial Serial1(2, 3); // RX, TX
  
 void setup()
 {
@@ -22,8 +24,8 @@ void setup()
     digitalWrite(PWR_KEY, HIGH);
     delay(10000);
     
-    SerialUSB.begin(115200);
-    //while (!SerialUSB)
+    Serial.begin(115200);
+    //while (!Serial)
     {
         ; // wait for serial port to connect
     }
@@ -35,7 +37,7 @@ void setup()
             delay(3000);
             digitalWrite(PWR_KEY, HIGH);
             delay(10000);
-      SerialUSB.println("Now turnning the A9/A9G on.");
+      Serial.println("Now turnning the A9/A9G on.");
         }
  
     //sendData("AT+CCID", 3000, DEBUG);
@@ -45,17 +47,17 @@ void setup()
     //sendData("AT+CGDCONT=1,\"IP\",\"CMNET\"", 1000, DEBUG);
     
     //sendData("AT+CIPSTART=\"TCP\",\"www.mirocast.com\",80", 2000, DEBUG);
-    SerialUSB.println("Maduino A9/A9G Test Begin!");
+    Serial.println("Maduino A9/A9G Test Begin!");
 }
  
 void loop()
 {
   while (Serial1.available() > 0) {
-    SerialUSB.write(Serial1.read());
+    Serial.write(Serial1.read());
     yield();
   }
-  while (SerialUSB.available() > 0) {
-    Serial1.write(SerialUSB.read());
+  while (Serial.available() > 0) {
+    Serial1.write(Serial.read());
     yield();
   }
 }
@@ -70,7 +72,7 @@ bool moduleStateCheck()
         msg = sendData("AT", 1000, DEBUG);
         if (msg.indexOf("OK") >= 0)
         {
-            SerialUSB.println("A9/A9G Module had turned on.");
+            Serial.println("A9/A9G Module had turned on.");
                 moduleState=true;
             return moduleState;
         }
@@ -94,7 +96,7 @@ String sendData(String command, const int timeout, boolean debug)
     }
     if (debug)
     {
-        SerialUSB.print(response);
+        Serial.print(response);
     }
     return response;
 }
