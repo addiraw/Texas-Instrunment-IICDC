@@ -1,8 +1,8 @@
-#include <stdio.h>
-#include <string.h>
- 
 #include <DHT.h>
 #include <DHT_U.h>
+
+#include <stdio.h>
+#include <string.h>
  
 //*******for senser **********
 float humidity;//humidity
