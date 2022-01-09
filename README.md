@@ -1,6 +1,42 @@
 # Texas-Instrunment-IICDC <!-- # A9G-code -->
 
-## A9G all code for different Task
+##  TI IICDC 2019 - Quarterfinalists
+
+### Texas Instruments IICDC 2019 - Team 1417313 Submissions (Business and Technical)
+
+### Description
+
+Todays pollution is a major concern in every cities of countries 
+
+### Business and Technical Details
+
+####  Quater finals
+
+-   Quarterfinals Technical Proposal 
+-   Quarterfinals Business Proposal 
+-   Quarterfinals Interim Technical Proposal 
+-   Quarterfinals Interim Business Proposal 
+
+#### Semi finals
+
+-   Semifinals Technical Proposal 
+-   [Semifinals Business Proposal](https://www.youtube.com/watch?v=VRJtZEQkx_4) 
+-   Semifinals Interim Technical Proposal 
+-   Semifinals Interim Business Proposal 
+
+
+### Collabrator
+
+This project was initialiase by ggsipu college students delhi
+-   Aditya Kumar [@addiraw] TL
+-   Umesh Kumar
+-   Aryan Karan Singh
+-   K.Srivastan
+-   Jayant Kumar
+-   Roshan Kumar Jha
+
+### A9G all code for different Task
+
     A9G Code
     Initially to send data to thingspeak simply change the API Address with your own API address
 
