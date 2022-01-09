@@ -6,29 +6,31 @@
 
 ### Description
 
-Todays pollution is a major concern in every cities of countries 
+```Todays pollution is a major concern in every cities of countries ```
 
 ### Business and Technical Details
 
 ####  Quater finals
 
--   Quarterfinals Technical Proposal 
--   Quarterfinals Business Proposal 
--   Quarterfinals Interim Technical Proposal 
--   Quarterfinals Interim Business Proposal 
+-   [Quarterfinals Technical Proposal]() 
+-   [Quarterfinals Business Proposal]() 
+-   [Quarterfinals Interim Technical Proposal]() 
+-   [Quarterfinals Interim Business Proposal]() 
 
 #### Semi finals
 
--   Semifinals Technical Proposal 
+-   [Semifinals Technical Proposal]() 
 -   [Semifinals Business Proposal](https://www.youtube.com/watch?v=VRJtZEQkx_4) 
--   Semifinals Interim Technical Proposal 
--   Semifinals Interim Business Proposal 
+-   [Semifinals Interim Technical Proposal 1]() 
+-   [Semifinals Interim Business Proposa 2]()
+-   [Semifinals Interim Technical Proposal 2](https://www.youtube.com/watch?v=_ARt1U7WMck) 
+-   [Semifinals Interim Business Proposa 2](https://www.youtube.com/watch?v=6axBEuGq9DE) 
 
 
 ### Collabrator
 
 This project was initialiase by ggsipu college students delhi
--   Aditya Kumar [@addiraw] TL
+-   Aditya Kumar [addiraw](gitub.com/addiraw) TL
 -   Umesh Kumar
 -   Aryan Karan Singh
 -   K.Srivastan
