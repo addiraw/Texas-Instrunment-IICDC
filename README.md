@@ -1,4 +1,6 @@
 # A9G-code
-A9G all code for different Task
-<b1>A9G Code </b1>
-<i><h2>Initially to send data to thingspeak simply change the API Address with your own API address</h2><i/>
+##  A9G all code for different Task
+    A9G Code
+    Initially to send data to thingspeak simply change the API Address with your own API address
+
+    Name changed from A9G-code to Texas-Instrunment-IICDC date : 09-Jan-22
