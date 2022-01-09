@@ -1,5 +1,5 @@
 # Texas-Instrunment-IICDC <!-- # A9G-code -->
-
+####    For collabration visit [iicdc official org](https://github.com/IICDC)
 ##  TI IICDC 2019 - Quarterfinalists
 
 ### Texas Instruments IICDC 2019 - Team 1417313 Submissions (Business and Technical)
@@ -43,4 +43,4 @@ This project was initialiase by ggsipu college students delhi
     Initially to send data to thingspeak simply change the API Address with your own API address
 
     Name changed from A9G-code to Texas-Instrunment-IICDC date : 09-Jan-22
-    purpose for google search index upgradation an counter other repository
+    purpose for google search index upgradation an counter other repository.
