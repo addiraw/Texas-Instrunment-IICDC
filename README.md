@@ -1,5 +1,5 @@
 # Texas-Instrunment-IICDC <!-- # A9G-code -->
-####    For collabration visit [iicdc official org](https://github.com/IICDC)
+####    For more details visit [iicdc](https://github.com/IICDC)
 ##  TI IICDC 2019 - Quarterfinalists
 
 ### Texas Instruments IICDC 2019 - Team 1417313 Submissions (Business and Technical)
