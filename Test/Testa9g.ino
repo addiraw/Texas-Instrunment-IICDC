@@ -26,7 +26,7 @@ bool ModuleState=false;
 unsigned long timeCount;
  
 //**********api write key******************
-const String apiKey="O8P9YFWEZ6MYA7MF";
+const String apiKey="O8P9YFWEZ6MYA7MF";     // dummy api please change this API with you own
  
 String  showString="";
  
