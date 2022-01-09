@@ -58,6 +58,10 @@ This project was initialiase by ggsipu college students delhi
 |**test_a9g**  | A9G module working code |
 |**etc** | other folders |
 
+##  Project Code information
+
+-   Kindly change the `API` with your own here we use dummy api for safety
+
 ### Others
 
     Name changed from A9G-code to Texas-Instrunment-IICDC date : 09-Jan-22
