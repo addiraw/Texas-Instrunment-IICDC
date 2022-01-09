@@ -41,6 +41,16 @@ This project was initialiase by ggsipu college students delhi
 
     A9G Code
     Initially to send data to thingspeak simply change the API Address with your own API address
+### Folder Information
+
+|Name |Purspose |
+|---|---|
+|**test** | Files used during the testing phase |
+|**datathroughgsm**  | gsm data transfer |
+|**test_a9g**  | A9G module working code |
+|**etc** | other folders |
+
+### Others
 
     Name changed from A9G-code to Texas-Instrunment-IICDC date : 09-Jan-22
     purpose for google search index upgradation an counter other repository.
