@@ -4,11 +4,11 @@
 ![](https://innovate.mygov.in/wp-content/uploads/2021/03/mygov161606477546562.jpg)
 ##  TI IICDC 2019 - Winners
 
-### Texas Instruments IICDC 2019 - Team 1417313 Submissions (Business and Technical)
+>   Texas Instruments IICDC 2019 - Team Id 1417313 Submissions (Business and Technical)
 
 ### Description
 
-```Todays pollution is a major concern in every cities of countries ```
+>   Todays pollution is a major concern in every cities of countries
 
 ### Business and Technical Details
 
@@ -38,6 +38,12 @@ This project was initialiase by ggsipu college students delhi
 -   K.Srivastan
 -   Jayant Kumar
 -   Roshan Kumar Jha
+
+### Announcement
+![](https://blog.mygov.in/wp-content/uploads/2020/01/banner-930x213-copy.jpg)
+
+>   [see result](https://blog.mygov.in/iicdc-2019-quarter-finals-results-and-an-introduction-to-the-evaluation-panel/)
+
 
 ### A9G all code for different Task
 
