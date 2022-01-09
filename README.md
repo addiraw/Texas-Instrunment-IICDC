@@ -60,7 +60,7 @@ This project was initialiase by ggsipu college students delhi
 
 ##  Project Code information
 
--   Kindly change the `API` with your own here we use dummy api for safety
+-   Kindly change the `API` with your own here we use dummy api for safety.
 
 ### Others
 
