@@ -32,7 +32,7 @@
 ### Collabrator
 
 This project was initialiase by ggsipu college students delhi
--   Aditya Kumar [addiraw](https://github.com/addiraw) TL
+-   [Aditya Kumar](https://www.linkedin.com/in/addiraw/) TL
 -   Umesh Kumar
 -   Aryan Karan Singh
 -   K.Srivastan
