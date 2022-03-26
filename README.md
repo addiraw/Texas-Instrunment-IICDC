@@ -44,11 +44,60 @@ This project was initialiase by ggsipu college students delhi
 
 >   [see result](https://blog.mygov.in/iicdc-2019-quarter-finals-results-and-an-introduction-to-the-evaluation-panel/)
 
+## 3.0 Technical Details
+
+### a. Product Brief
+
+The proposed design aims at increasing awareness of the people towards air pollution by 
+providing them with the useful information such as AQI (Air Quality Index), deviation of AQI 
+with respect to time of the day and traffic at different regions and pollution hotspots in a 
+precise, comprehensive and graphical manner through an application with a user friendly 
+interface. The information will also be represented on map through which people will be 
+made aware about the most and least polluted regions and suggest users best possible 
+routes.Through our data analysis system we will also be able to predict and alert public for an 
+approaching critical situation via push notifications to prepare the citizens for necessary steps 
+to be taken. The device comprises of gas sensor, dust sensor, thermal and humidity sensor, 
+GPS and GSM module and MSP launch-pad (microcontroller). The device is transportable 
+and easy to install in public transits due to its compact design and power efficiency. The 
+devices will work in a synchronized network increasing the accuracy of the system. 
+
+##  2.0 Business Details
+
+###  a. Project Abstract
+
+The main aim of the device is to increase public awareness towards air pollution and provide 
+the necessary information in public domain. The proposed design consists of a highly 
+transportable device which can be installed in public transit. The device will employ the 
+means of multiple sensors to sample the air; the collected information will be analyzed and 
+will be made available in public domain through a mobile application and map. The data will 
+be represented in a comprehensive, graphical manner and map representation of the 
+information will help traffic authorities to manage traffic for the public to take better routes 
+or use public transport with respect to severity of the pollution. The product potentially 
+targets the market of Public transit and private users with other modes like in-app 
+advertisement and marketing of collected data to Data Analysis, Big data Clients and research 
+organizations. 
+
+### b. Proposed Design
+
+### c. Innovativeness of the Proposed Solution
+
+###  d. Impact of the proposed solution
+
+If our product is launched in the market it will definitely increase the awareness 
+towards air pollution by providing comprehensive information and moderating 
+the traffic by diverting heavy traffic through our Mobile's application which 
+would suggest better routes and less polluted routes. It will make people take 
+precautionary measures such as wearing pollution mask using public transport 
+and also help responsible authorities to take necessary action for reducing air 
+pollution by alerting for critical air condition in a region by moderating the 
+traffic or restricting construction work which will ultimately reduce the health 
+related problems caused by air pollution.
 
 ### A9G all code for different Task
 
     A9G Code
     Initially to send data to thingspeak simply change the API Address with your own API address
+    
 ### Folder Information
 
 |Name |Purspose |
