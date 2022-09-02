@@ -1,8 +1,9 @@
 # Texas-Instrunment-IICDC <!-- # A9G-code -->
 [innovate.mygov.in/india-innovation-challenge-design-contest-2019](https://innovate.mygov.in/india-innovation-challenge-design-contest-2019/)
-
+![IICDC_Blog_Banner](https://user-images.githubusercontent.com/46880800/188178840-dd5a4808-6b58-46a6-b8c9-e4b53d001d62.png)
 ![](https://innovate.mygov.in/wp-content/uploads/2021/03/mygov161606477546562.jpg)
 ##  TI IICDC 2019 - Winners
+
 
 >   Texas Instruments IICDC 2019 - Team Id 1417313 Submissions (Business and Technical)
 
@@ -11,23 +12,18 @@
 >   Todays pollution is a major concern in every cities of countries
 
 ### Business and Technical Details
+<img src="https://user-images.githubusercontent.com/46880800/187949209-1c409aaf-b77d-4ff4-a4dd-374d81fea9db.png" width="165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/46880800/187949641-6e5b37b5-d884-4db4-bd4d-3ae2265c8971.png" width="165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/46880800/187950073-12a43210-d85e-49ac-9ed2-fabac7bdd4f6.png" width="165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/46880800/187950077-635db019-645f-41d4-b7f1-14f1fbfa1448.png" width="165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/46880800/187950078-5688ee6b-d488-4278-b657-4be1db7726ef.png" width="165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-####  Quater finals
-
--   [Quarterfinals Technical Prensentation]() 
--   [Quarterfinals Business Prensentation]() 
--   [Quarterfinals Interim Technical Prensentation]() 
--   [Quarterfinals Interim Business Prensentation]() 
-
-#### Semi finals
-
--   [Semifinals Technical Prensentation]() 
--   [Semifinals Business Prensentation](https://www.youtube.com/watch?v=VRJtZEQkx_4) 
--   [Semifinals Interim Technical Prensentation 1]() 
--   [Semifinals Interim Business Prensentation 2]()
--   [Semifinals Interim Technical Prensentation 2](https://www.youtube.com/watch?v=_ARt1U7WMck) 
--   [Semifinals Interim Business Prensentation 2](https://www.youtube.com/watch?v=6axBEuGq9DE) 
-
+Type|Quater finals|Semi finals|
+--|--|--
+Interim Business|[Quarterfinals Interim Business Prensentation]()|[Semifinals Interim Business Prensentation 1]()<br>[Semifinals Interim Business Prensentation 2](https://www.youtube.com/watch?v=6axBEuGq9DE) 
+Business|[Quarterfinals Business Prensentation]()|[Semifinals Business Prensentation](https://www.youtube.com/watch?v=VRJtZEQkx_4) 
+Technical|[Quarterfinals Technical Prensentation]()|[Semifinals Technical Prensentation]() 
+Interim Technical|[Quarterfinals Interim Technical Prensentation]()|[Semifinals Interim Technical Prensentation 1]()<br>[Semifinals Interim Technical Prensentation 2](https://www.youtube.com/watch?v=_ARt1U7WMck) 
 
 ### Collabrator
 
